@@ -2,7 +2,7 @@
 
 This project is under currently under construction. The final product will be a prgressive web application that helps find missing kids. Find out more about the project scope here:
 
-[Link to Project Scope]: https://youtu.be/9pTQYoey7b8
+[Link to Project Scope](https://youtu.be/9pTQYoey7b8)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
